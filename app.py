@@ -7,7 +7,7 @@ import re
 # EURI API CONFIGURATION
 # =======================
 EURI_API_URL = "https://api.euron.one/api/v1/euri/chat/completions"
-EURI_API_KEY = "euri-68f8355d865bd65b2468397bf40cfb6f009159e44d206b7258e604b4f7ec7b4f"
+EURI_API_KEY = "" # Replace with your api key
 MODEL = "groq/compound"
 MAX_TOKENS = 1024
 
