@@ -50,13 +50,7 @@ streamlit run app.py
 4. **Open in browser**
 The app will automatically open at `http://localhost:8501`
 
-## 📦 Dependencies
 
-Create a `requirements.txt` file with:
-```
-streamlit>=1.28.0
-requests>=2.31.0
-```
 
 ## 🔑 API Configuration
 
@@ -79,7 +73,11 @@ The app uses the EURI API for AI-powered analysis. MODEL = "groq/compound. in yo
 - Powered by [EURI API](https://euron.one/)
 - EURI AI Model: Groq Compound
 
-### `requirements.txt`
+## 📦 Dependencies
+
+Create a `requirements.txt` file with:
 ```
 streamlit>=1.28.0
 requests>=2.31.0
+```
+
